@@ -1,2 +1,2 @@
 # Python_PL
-Repository of ASVK python course by George Kuryachiy autumn 2025 CMC MSU
+Repository of ASVK python course by George Kouryachy autumn 2025 CMC MSU
